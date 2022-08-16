@@ -1,6 +1,6 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+This project permits you search any gifs that you want, through API of API Giphy.
 
 ## Development server
 
